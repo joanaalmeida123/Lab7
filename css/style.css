@@ -6,7 +6,7 @@ td, th {
 
 th {
 	font-family: 'Bebas Neue', arial, serif;
-	font-size: 150%;
+	font-size: 30px;
 	font-weight: 400;
  	font-style: normal;
 	color: #FFFFFF;
@@ -23,7 +23,7 @@ td {
 	
 td strong {
 	font-family: 'Merriweather', arial, serif;
-	font-size: 100%;
+	font-size: 30px;
 	font-weight: 400;
 	font-style: normal;
 	background-color: #F0E3F3;
@@ -47,6 +47,7 @@ td img {
 h1 {
 	font-family: 'Bebas Neue', arial, serif;
   	font-weight: 400;
+	font-size: 50px;
  	font-style: normal;
 	color: #7F1E4B;
 }
