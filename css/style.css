@@ -1,18 +1,23 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
 td, th {
-	width: 90px;
+	width: 100px;
 	height: 90px;
 	border: 1px solid #57485A;
   }
 
 th {
 	font-family: 'Bebas Neue', arial, serif;
-	font-size: 50px;
+	font-size: 30px;
 	font-weight: 400;
  	font-style: normal;
 	color: #FFFFFF;
 	background-color:#6C2626;
 	width: 50px;
-	height: 20px;
+	height: 50px;
 }
 
 td {
@@ -23,7 +28,7 @@ td {
 	
 td strong {
 	font-family: 'Merriweather', arial, serif;
-	font-size: 30px;
+	font-size: 15px;
 	font-weight: 400;
 	font-style: normal;
 	background-color: #F0E3F3;
@@ -39,7 +44,6 @@ td img {
 	height: 80px;
 	object-fit: cover
 }
-	
 
 #planets {
 	background-color: #ECECEC;
@@ -51,5 +55,5 @@ h1 {
 	font-size: 50px;
  	font-style: normal;
 	color: #7F1E4B;
+	text-align: center;
 }
-	
