@@ -5,7 +5,7 @@ td, th {
   }
   
 th {
-	font-family: Merriweather, arial, serif;;
+	font-family: Merriweather, arial, serif;
 	font-weight: 400;
 	font-style: normal;
 	background-color: #F0E3F3;
@@ -17,7 +17,7 @@ tr {
 	background-color: #E1E1E1;
 }
 
-tr strong {
+td strong {
 	font-family: "Bebas Neue", arial, serif;
   	font-weight: 400;
  	font-style: normal;
