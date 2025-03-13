@@ -31,8 +31,8 @@ tr {
 }
 
 td img {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 	
 
@@ -40,4 +40,10 @@ td img {
 	background-color: #ECECEC;
 }
 
-
+h1 {
+	font-family: 'Bebas Neue', arial, serif;
+  	font-weight: 400;
+ 	font-style: normal;
+	color: #7F1E4B;
+}
+	
